@@ -25,5 +25,11 @@ e numpy.
 # Amostra
 Amostra de 1000 dados, sendo esses dados o tempo de resposta de cada funcionamento.
 
+# Experimentos realizados
+- Medidas de dispersão, variabilidade e centralidade
+- Boxplot 
+- Testes de distribuição (Anderson-Darling, p-value e histograma)
+- Teste de hipótese
+
 # Relatório final
 [Relatório Grupo-4.pdf](https://github.com/guilopesrbc/projeto_estatistica/files/11423928/Relatorio.Grupo-4.pdf)
